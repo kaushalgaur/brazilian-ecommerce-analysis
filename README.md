@@ -1,13 +1,13 @@
-# 📊 Brazilian E-Commerce Analytics Project
+# Brazilian E-Commerce Analytics Project
 
-## 🚀 Overview
+## Overview
 
 This project is a complete **end-to-end data analytics solution** built on a real-world Brazilian e-commerce dataset.
 It focuses on analyzing **revenue trends, customer behavior, and business performance** using SQL, Python, and Power BI.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 E-commerce businesses often struggle with:
 
@@ -20,7 +20,7 @@ This project solves these problems using data-driven analysis.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * Source: [Brazilian E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * Contains ~100k orders with:
@@ -34,7 +34,7 @@ This project solves these problems using data-driven analysis.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **SQL** → Data Cleaning & Transformation
 * **Python (Pandas, NumPy, Matplotlib)** → Exploratory Data Analysis
@@ -42,7 +42,7 @@ This project solves these problems using data-driven analysis.
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 1. Data Understanding
 2. Data Cleaning (SQL)
@@ -53,27 +53,27 @@ This project solves these problems using data-driven analysis.
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
-### 🟦 Executive Overview
+### Executive Overview
 
 ![Executive Dashboard](images/1.Executive%20Summary%20Dashboard.png)
 
-### 🟦 Customer Behavior & Segmentation
+### Customer Behavior & Segmentation
 
 ![Customer Dashboard](images/2.Customer%20Behavior%20%26%20Segmentation%20Dashboard.png)
 
-### 🟦 Sales Performance & Trends
+### Sales Performance & Trends
 
 ![Sales Dashboard](images/3.Sales%20Performance%20%26%20Trends.png)
 
-### 🟦 Advanced Customer Behavior
+### Advanced Customer Behavior
 
 ![Advanced Dashboard](images/4.Advanced%20Customer%20Behavior.png)
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * Majority of revenue comes from **one-time customers**
 * Revenue is highly concentrated among **top customers**
@@ -82,7 +82,7 @@ This project solves these problems using data-driven analysis.
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 * Focus on improving **customer retention strategies**
 * Target high-value customers with personalized marketing
@@ -91,7 +91,7 @@ This project solves these problems using data-driven analysis.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 brazilian-ecommerce-analysis/
@@ -120,13 +120,13 @@ brazilian-ecommerce-analysis/
 
 ---
 
-## 📓 Notebook
+## Notebook
 
 * Python Analysis: [eda_analysis.ipynb](python/eda_analysis.ipynb)
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 * End-to-end analytics workflow
 * Writing business-focused SQL queries
@@ -135,6 +135,6 @@ brazilian-ecommerce-analysis/
 
 ---
 
-## 👤 Author
+## Author
 
 **Kaushal Gaur**
